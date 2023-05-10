@@ -17,3 +17,6 @@ I learned how to make a lava lamp.
 May 10, 2023
  
 I learned to create a planet in a space background.
+
+
+And the addition of the uv button that solved half of our materials and textures 
